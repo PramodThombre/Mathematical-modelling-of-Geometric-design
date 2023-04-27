@@ -24,3 +24,5 @@ Hand
 
 Legs
 
+
+https://docs.google.com/presentation/d/1rpy79n3rlH1_qAcvvUVSvK15F-se3GVE4n0v8duWaMQ/edit#slide=id.g1c00d914698_1_550
