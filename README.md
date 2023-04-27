@@ -28,5 +28,12 @@ Hand
 
 Legs
 
+![Screen Shot 2023-04-27 at 2 27 32 AM](https://user-images.githubusercontent.com/61206092/234790897-57413d4d-0935-4acf-9943-fc5df17ff42b.png)
+
+Ears
+
+![Screen Shot 2023-04-27 at 2 27 47 AM](https://user-images.githubusercontent.com/61206092/234790900-2e1fbb20-9ace-4f3f-84d0-e73ead5cad83.png)
+
+Eyes
 
 https://docs.google.com/presentation/d/1rpy79n3rlH1_qAcvvUVSvK15F-se3GVE4n0v8duWaMQ/edit#slide=id.g1c00d914698_1_550
