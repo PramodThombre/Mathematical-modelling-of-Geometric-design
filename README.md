@@ -4,6 +4,10 @@ A teddy bear was designed using mathematical modelling using Bezier, BSpline and
  Parts such as hands, legs, eyes, nose, head, body were created individually and then assembled in Microsoft 3D builder.
 A .stl file was created and it was used to 3D print the teddy bear.
 
+![Screen Shot 2023-04-27 at 2 18 20 AM](https://user-images.githubusercontent.com/61206092/234790364-7516f59c-0ace-4cf4-95c3-46627f7b546f.png)
+
+Teddy Bear!
+
 ![Assembled Belly and upper half](https://user-images.githubusercontent.com/61206092/234787660-0968d2e5-1fdf-4b37-87ed-68c740c2b0f2.png)
 
 Assembled Belly and upper half
